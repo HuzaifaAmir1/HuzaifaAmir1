@@ -1,56 +1,32 @@
-# Huzaifa
-<!-- 👋 Animated Character -->
+<!-- Introduction with Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Huzaifa waving" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30" />
 </p>
 
-<!-- 🔥 Typing SVG (Animated) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Huzaifa+%F0%9F%91%8B;Backend+Engineer+%7C+Python+Wizard;Lover+of+Clean+APIs+%26+CI%2FCD+Automation;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
-
----
-
-<!-- 🌊 Wavy Capsule -->
+<!-- About Me Section with 3D Coding Illustrations -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Huzaifa's%20World%20🌍&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Building%20Backends%20with%20Power%20and%20Passion!&descAlignY=55&descAlign=62" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
----
+<h2 align="center">About Me</h2>
+<p align="center">
+  Hello! I'm Huzaifa, a passionate backend developer with expertise in Python, Django, and Flask. I love building scalable APIs and automating complex processes. On GitHub, I showcase my projects and experiment with new technologies. Let's build something amazing together!
+</p>
 
-### 💫 About Me
+<!-- 3D Animated Code Block -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/3d-coding.gif" width="200" />
+</p>
 
-```yaml
-Name: Huzaifa
-Role: Backend Developer | Automation Enthusiast
-Stack: Python, Django REST, Flask, CI/CD, GitHub Actions
-Dev Style: Clean Code, Fast APIs, Silent Automation 😎
-Email: huzaifa123@gmail.com
-Fun Fact: I push code daily like coffee ☕
-
+<!-- GitHub Stats with Animation -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifa&show_icons=true&theme=radical&hide_border=true&icon_color=F8D866&title_color=F9578E" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
+<!-- Wavy Footer with Animation -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=huzaifa&theme=radical&hide_border=true&background=00000000&currStreakNum=F8D866&sideNums=F9578E" height="150"/>
-</p>
-
-
-while True:
-    build()
-    commit()
-    push()
-    coffee()
-
-<p align="center">
-  <a href="mailto:huzaifa123@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20me-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</p>
-
-<!-- 🌊 Wavy Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </p>
