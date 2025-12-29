@@ -5,15 +5,15 @@
 **Software Engineer • Back-End • Python • Django Rest • Fast API • Flask • CI/CD • LLM • AI Agents • Docker**
 
 
-To be honest, I don’t chase trends.  
-I focus on learning what actually gets used in production.
+To be honest, I don’t chase trends.<br>  
+🔭 I focus on learning what actually gets used in production.<br>
 
-⚡ **Backend-focused Software Engineer**  
-🔭 I focus on learning what actually gets used in production.
-📝 Working with Python • Django REST • FastAPI • Flask • CI/CD • LLM  
-📄 Learning by building, breaking, and rebuilding things properly  
-💬 Ask me about Python, Backend, or AI  
-📫 Reach me at **zev.keys@gmail.com**
+⚡ **Backend-focused Software Engineer**<br>
+
+📝 Working with Python • Django REST • FastAPI • Flask • CI/CD • LLM<br>
+📄 Learning by building, breaking, and rebuilding things properly<br>
+💬 Ask me about Python, Backend, or AI<br>
+📫 Reach me at **zev.keys@gmail.com**<br>
 
 ---
 
@@ -36,6 +36,6 @@ I focus on learning what actually gets used in production.
 
 
 
-**You have finally discovered my Github profile, so let's get connected!**
+**You have finally discovered my Github profile, so let's get connected!👋**
 
 </div>
