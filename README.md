@@ -36,6 +36,6 @@ I focus on learning what actually gets used in production.
 
 
 
-                                                                          You have finally discovered my Github profile, so let's get connected!
+**You have finally discovered my Github profile, so let's get connected!**
 
 </div>
