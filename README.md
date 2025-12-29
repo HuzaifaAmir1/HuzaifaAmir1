@@ -1,8 +1,17 @@
-# 💫 About Me:
-To be honest, I don’t chase trends.<br>I focus on learning what actually gets used in production.<br>Backend focused Software Engineer<br>working with Python • Django REST • Fast API • Flask • CI/CD • LLM.<br>I care about how systems behave in real life — not just how they look in tutorials.<br>I learn by building, breaking, and rebuilding things properly.<br><br>
+                                                                                                    I'm Huzeyfa
 
+                                                        Software Engineer • Back-End • Python • Django Rest • Fast API • Flask • CI/CD • LLM • AI Agents • Docker
 
-## 🌐 Socials:
+To be honest, I don’t chase trends.
+<br>🔭 I focus on learning what actually gets used in production.<br>
+<br>⚡ Backend focused Software Engineer<br>
+<br>📝 working with Python • Django REST • Fast API • Flask • CI/CD • LLM.<br>
+<br>📄 I learn by building, breaking, and rebuilding things properly.<br>
+<br>💬 Ask me about anything regarding Python, AI<br>
+<br>📫 How to reach me zev.keys@gmail.com<br>
+<br> Know about me.<br>
+
+## 🌐 Connect With me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/huzaifa-pec-engineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zev.keys@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,8 +21,7 @@ To be honest, I don’t chase trends.<br>I focus on learning what actually gets 
 ![](https://nirzak-streak-stats.vercel.app/?user=HuzaifaAmir1&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaAmir1&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HuzaifaAmir1&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+                                                                          You have finally discovered my Github profile, so let's get connected!
