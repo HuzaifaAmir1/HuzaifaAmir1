@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:FF3CAC&height=220&text=SOFTWARE%10ENGINEER&fontSize=10&fontAlignY=40&fontColor=ffffff&animation=fadeIn&width=1000"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C4DFF,100:FF3CAC&height=380&width=900&text=AI%20ENGINEER&fontSize=30&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C4DFF,100:FF3CAC&height=380&width=900&text=AI%10ENGINEER&fontSize=10&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF3CAC&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Engineer;GenAI+Builder;LangChain+Developer;Building+Real+AI+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF3CAC&center=true&vCenter=true&width=750&lines=AI+Engineer;Software+Engineer;GenAI+Builder;LangChain+Developer;Building+Real+AI+Systems"/>
 </p>
 
 <div align="center">
