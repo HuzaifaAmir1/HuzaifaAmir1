@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C4DFF,100:FF3CAC&height=200&width=900&text=AI%20ENGINEER&fontSize=22&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF3CAC&center=true&vCenter=true&width=750&lines=AI+Engineer;AI+Agents;Software+Engineer;GenAI+Builder;Python;FastAPI;Langchain;LangGrapgh;Rag;n8n;Ollama"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF3CAC&center=true&vCenter=true&width=750&lines=AI+Engineer;AI+Agents;Software+Engineer;GenAI+Builder;Python;FastAPI;Langchain;LangGrapgh;Rag;LLM;n8n;Ollama"/>
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## I'm Huzeyfa 👋
   
-**Software Engineer • Back-End • Python • Django Rest • Fast API • Flask • CI/CD • LLM • AI Agents • Docker**
+**Software Engineer • AI Engineer • Python • Django Rest • Fast API • Flask • CI/CD • LLM • AI Agents • Langchain • LangGarpgh • RAG • Docker**
 
 
 To be honest, I don’t chase trends.<br>  
