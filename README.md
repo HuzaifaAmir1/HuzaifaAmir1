@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C4DFF,100:FF3CAC&height=300&width=1400&text=AI%20ENGINEER&fontSize=38&fontAlignY=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C4DFF,100:FF3CAC&height=280&width=1100&text=AI%20ENGINEER&fontSize=30&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF3CAC&center=true&vCenter=true&width=700&lines=Building+Production+Ready+AI+Systems;LangChain+%7C+Flask+%7C+Python;Shipping+Real+Products;Automation+%2B+Intelligence"/>
 </p>
