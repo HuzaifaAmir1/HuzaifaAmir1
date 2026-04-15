@@ -1,5 +1,6 @@
 <div align="center">
-  
+  <img width="500" height="215" alt="iron man hologram GIF" src="https://github.com/user-attachments/assets/6e762b53-c677-43bf-9f5c-429bf1e6edb3" />
+
 ## I'm Huzeyfa 👋
   
 **Software Engineer • Back-End • Python • Django Rest • Fast API • Flask • CI/CD • LLM • AI Agents • Docker**
