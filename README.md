@@ -9,6 +9,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF3CAC&center=true&vCenter=true&width=700&lines=Building+AI+Systems;LangChain+%7C+Flask+%7C+Python;Shipping+Real+Products;Automation+%2B+Intelligence"/>
 </p>
 
+<h1 align="center">
+  ⚡ <span style="color:#7C4DFF">BUILDING INTELLIGENT SYSTEMS</span> ⚡
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Engineer;Flask+Backend;LangChain+Builder;LLM+Systems+Architect"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C4DFF&height=120&section=header"/>
+</p>
+
 <div align="center">
   <img width="750" height="300" alt="iron man hologram GIF" src="https://github.com/user-attachments/assets/6e762b53-c677-43bf-9f5c-429bf1e6edb3" />
 
