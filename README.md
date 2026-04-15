@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:FF3CAC&height=220&text=SOFTWARE%20ENGINEER&fontSize=35&fontAlignY=40&fontColor=ffffff&animation=fadeIn&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C4DFF,100:FF3CAC&height=400&text=AI%20ENGINEER&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF3CAC&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Engineer;GenAI+Builder;LangChain+Developer;Building+Real+AI+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF3CAC&center=true&vCenter=true&width=700&lines=Building+AI+Systems;LangChain+%7C+Flask+%7C+Python;Shipping+Real+Products;Automation+%2B+Intelligence"/>
 </p>
 
 <div align="center">
