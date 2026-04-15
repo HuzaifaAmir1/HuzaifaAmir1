@@ -1,24 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+Engineer;Flask+Backend;LangChain+Builder"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C4DFF,100:FF3CAC&height=200&text=AI%20ENGINEER&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:FF3CAC&height=220&text=SOFTWARE%20ENGINEER&fontSize=35&fontAlignY=40&fontColor=ffffff&animation=fadeIn&width=1000"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF3CAC&center=true&vCenter=true&width=700&lines=Building+AI+Systems;LangChain+%7C+Flask+%7C+Python;Shipping+Real+Products;Automation+%2B+Intelligence"/>
-</p>
-
-<h1 align="center">
-  ⚡ <span style="color:#7C4DFF">BUILDING INTELLIGENT SYSTEMS</span> ⚡
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Engineer;Flask+Backend;LangChain+Builder;LLM+Systems+Architect"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C4DFF&height=120&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF3CAC&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Engineer;GenAI+Builder;LangChain+Developer;Building+Real+AI+Systems"/>
 </p>
 
 <div align="center">
